@@ -1,0 +1,16 @@
+machine:
+
+  timezone:
+    Europe/London # Set the timezone
+
+  # Version of ruby to use
+  java:
+    version: openjdk8
+
+checkout:
+  post:
+    - bash <(curl -s https://raw.githubusercontent.com/Financial-Times/konstructor-services-scripts/master/register_service) -f .konstructor
+
+
+
+
