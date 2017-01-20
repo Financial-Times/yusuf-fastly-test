@@ -1,10 +1,10 @@
 {
-  "name": "Fastly",
-  "description": "updating my service",
-  "version": "2.0",
-  "type": "api",
-  "locationUrl": "http://git.svc.ft.com/projects/CS/repos/fastly-api-tools/browse/README.md",
+  "name": "Fastly Testing",
+  "description": "create new service",
+  "version": "1.0",
+  "type": "script",
+  "locationUrl": "http://git.svc.ft.com/projects/LAM/repos/lambdatest/browse/README.md",
   "status": "active",
-  "serviceUrl": "http://git.svc.ft.com/projects/CS/repos/fastly-api-tools/browse/README.md",
-  "systemCode": "yusuf-fastly"
+  "serviceUrl": "http://git.svc.ft.com/projects/LAM/repos/lambdatest/browse/README.md"
+  
 }
