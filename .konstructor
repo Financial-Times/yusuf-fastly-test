@@ -1,7 +1,7 @@
 {
-  "name": "Fastly Test Script",
+  "name": "Fastly",
   "description": "updating my service",
-  "version": "1.0",
+  "version": "2.0",
   "type": "script",
   "locationUrl": "http://git.svc.ft.com/projects/CS/repos/fastly-api-tools/browse/README.md",
   "status": "active",
