@@ -2,7 +2,7 @@
   "name": "Fastly",
   "description": "updating my service",
   "version": "2.0",
-  "type": "script",
+  "type": "api",
   "locationUrl": "http://git.svc.ft.com/projects/CS/repos/fastly-api-tools/browse/README.md",
   "status": "active",
   "serviceUrl": "http://git.svc.ft.com/projects/CS/repos/fastly-api-tools/browse/README.md",
